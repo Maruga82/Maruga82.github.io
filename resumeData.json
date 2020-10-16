@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Maham Mehrabi",
+    "occupation": "Front-End Developer",
+    "description": "Developer by Day, Film-maker by Night. I have some skills in Java too (Back-end)",
+    "image": "Maham.jpg",
+    "bio": "My name is Maham, I'm a Front-End Developer and I work with ReactJs and Angular, but I manage Java too. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "maruga82@gmail.com",
+    "phone": "+39 373 873 77 87",
+    "address": {
+      "street": "Via Campo Felice, 28",
+      "city": "Pescara",
+      "state": "IT",
+      "zip": "65125"
+    },
+    "website": "http://www.maham.it",
+    "resumedownload": "https://mega.nz/file/sdJnwQiZ#2vQrVfQlodHECQbpyi9rF7_CB9ixAW-zXdSxTVK1fHk",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Maruga/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/maham-mehrabi-a8896a96/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/maham1982",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Maruga82/Maruga",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My skills keep evolving day-by-day with the passion that I put in my job.",
+    "education": [
+      {
+        "school": "Nuova Università del Cinema e della Televisione (NUCT)",
+        "degree": "Graduation in film direction",
+        "graduated": "2004",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Front-end Developer",
+        "years": "March 2019 - Present",
+        "description": "Developing with love"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      },
+      {
+        "name": "JAVA",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React ChartJS with input data",
+        "category": "A reactive chart for a dashboard",
+        "image": "chartjs.jpg",
+        "url": "https://github.com/Maruga82/React-Chart-Js-input-data"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Programming isn't about what you know; it's about what you can figure out.",
+        "user": "Chris Pine"
+      },
+      {
+        "text": "The only way to learn a new programming language is by writing programs in it.",
+        "user": "Dennis Ritchie"
+      }
+    ]
+  }
+}
